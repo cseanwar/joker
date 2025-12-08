@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
