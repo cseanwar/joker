@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
