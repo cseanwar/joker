@@ -5,7 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 <!-- END -->
 
