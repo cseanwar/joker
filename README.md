@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a chimney joke? Got stacks of em! First one's on the house
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
