@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
