@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
