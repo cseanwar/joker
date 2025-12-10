@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 <!-- END -->
 
