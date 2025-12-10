@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
