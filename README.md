@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
 
 <!-- END -->
 
