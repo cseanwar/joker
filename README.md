@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
