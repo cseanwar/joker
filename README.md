@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 <!-- END -->
 
