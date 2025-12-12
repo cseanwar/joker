@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
