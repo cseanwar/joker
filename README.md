@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
 
 <!-- END -->
 
