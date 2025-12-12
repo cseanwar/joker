@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
