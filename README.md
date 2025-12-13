@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
