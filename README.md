@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
