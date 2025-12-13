@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
