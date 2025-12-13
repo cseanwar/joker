@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 
 <!-- END -->
 
