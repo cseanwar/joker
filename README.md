@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
