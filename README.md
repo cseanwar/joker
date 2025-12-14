@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
