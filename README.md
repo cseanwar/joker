@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
