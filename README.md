@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
