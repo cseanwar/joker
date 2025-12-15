@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
