@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 <!-- END -->
 
