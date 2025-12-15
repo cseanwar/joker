@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
