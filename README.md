@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
