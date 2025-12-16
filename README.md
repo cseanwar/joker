@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
