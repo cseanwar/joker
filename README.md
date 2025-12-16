@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
