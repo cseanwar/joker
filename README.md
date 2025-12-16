@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a chicken with a skunk? A fowl smell!
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
