@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 <!-- END -->
 
