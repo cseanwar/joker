@@ -5,7 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
