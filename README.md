@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 <!-- END -->
 
