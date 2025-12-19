@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
 
 <!-- END -->
 
