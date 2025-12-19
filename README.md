@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
 
 <!-- END -->
 
