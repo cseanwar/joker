@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
