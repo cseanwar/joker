@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
