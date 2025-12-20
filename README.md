@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 <!-- END -->
 
