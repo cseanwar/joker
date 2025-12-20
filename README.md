@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
