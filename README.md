@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 <!-- END -->
 
