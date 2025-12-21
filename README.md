@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 <!-- END -->
 
