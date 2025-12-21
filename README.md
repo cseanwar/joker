@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
