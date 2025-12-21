@@ -5,8 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
