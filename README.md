@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
