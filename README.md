@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
 
 <!-- END -->
 
