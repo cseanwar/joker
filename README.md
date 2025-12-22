@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
