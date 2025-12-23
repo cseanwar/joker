@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
