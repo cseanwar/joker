@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs Forest Gumpâs Facebook password? 1forest1
+> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 
 <!-- END -->
 
