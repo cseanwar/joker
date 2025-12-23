@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
 
 <!-- END -->
 
