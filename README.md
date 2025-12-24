@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
