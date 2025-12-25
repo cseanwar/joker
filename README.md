@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call someone with no nose? Nobody knows.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
