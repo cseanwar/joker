@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
