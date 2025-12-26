@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I was thinking about moving to Moscow but there is no point Russian into things.
+> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 <!-- END -->
 
