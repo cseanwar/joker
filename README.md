@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
