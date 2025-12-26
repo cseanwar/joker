@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> What is a tornado's favorite game to play? Twister!
 
 <!-- END -->
 
