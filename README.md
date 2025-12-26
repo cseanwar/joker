@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
