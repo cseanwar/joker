@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 
 <!-- END -->
 
