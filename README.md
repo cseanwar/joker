@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
