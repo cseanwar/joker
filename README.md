@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
