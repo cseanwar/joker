@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
