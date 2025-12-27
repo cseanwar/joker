@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
 
 <!-- END -->
 
