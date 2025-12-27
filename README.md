@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
