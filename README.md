@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
