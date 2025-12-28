@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
