@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
