@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a sheep with no legs? A cloud.
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
