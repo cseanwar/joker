@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
