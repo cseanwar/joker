@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 <!-- END -->
 
