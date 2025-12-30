@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
