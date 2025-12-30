@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
