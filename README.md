@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> What type of music do balloons hate? Pop music!
 
 <!-- END -->
 
