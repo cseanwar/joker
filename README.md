@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 <!-- END -->
 
