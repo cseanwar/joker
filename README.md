@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
