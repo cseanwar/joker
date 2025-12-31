@@ -5,9 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
