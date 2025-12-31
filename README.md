@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
