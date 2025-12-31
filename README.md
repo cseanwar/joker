@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
 
 <!-- END -->
 
