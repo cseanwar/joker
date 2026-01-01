@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
