@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> Is the pool safe for diving? It deep ends.
 
 <!-- END -->
 
