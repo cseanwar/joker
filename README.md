@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
