@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 <!-- END -->
 
