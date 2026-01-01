@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
