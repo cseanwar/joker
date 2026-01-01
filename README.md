@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
