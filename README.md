@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
