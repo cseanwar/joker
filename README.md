@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
