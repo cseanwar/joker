@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
