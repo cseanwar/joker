@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
