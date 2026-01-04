@@ -5,9 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> The invention of the wheel was what got things rolling
 
 <!-- END -->
 
