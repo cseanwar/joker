@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
