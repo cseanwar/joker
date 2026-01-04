@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
