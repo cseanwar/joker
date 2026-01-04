@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
