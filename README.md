@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> There are two types of people in this world, those who can extrapolate from incomplete data...
+> What has three letters and starts with gas? A Car.
 
 <!-- END -->
 
