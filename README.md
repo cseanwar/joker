@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
