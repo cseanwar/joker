@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 <!-- END -->
 
