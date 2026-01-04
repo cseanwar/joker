@@ -5,7 +5,8 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 <!-- END -->
 
