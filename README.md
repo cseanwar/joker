@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
