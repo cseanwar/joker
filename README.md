@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
