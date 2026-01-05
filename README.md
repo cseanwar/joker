@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
 
 <!-- END -->
 
