@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 <!-- END -->
 
