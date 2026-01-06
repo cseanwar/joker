@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
