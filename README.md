@@ -5,13 +5,9 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Wife: Honey Iâm pregnant.
+> Why do pumpkins sit on peopleâs porches?
 
-Me: Wellâ¦. what do we do now?
-
-Wife: Well, I guess we should go to a baby doctor.
-
-Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
+They have no hands to knock on the door.
 
 <!-- END -->
 
