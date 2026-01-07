@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
