@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What cheese can never be yours? Nacho cheese.
 
 <!-- END -->
 
