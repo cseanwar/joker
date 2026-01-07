@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
