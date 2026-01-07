@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
 
 <!-- END -->
 
