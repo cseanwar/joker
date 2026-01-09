@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
