@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day... so I went home.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
