@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
