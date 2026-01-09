@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 <!-- END -->
 
