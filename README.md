@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 <!-- END -->
 
