@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
