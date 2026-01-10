@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
