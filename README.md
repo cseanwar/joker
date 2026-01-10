@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
