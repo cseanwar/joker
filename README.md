@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
