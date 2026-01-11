@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
