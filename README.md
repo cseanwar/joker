@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
