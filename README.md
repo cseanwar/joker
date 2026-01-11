@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
