@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 <!-- END -->
 
