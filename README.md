@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 <!-- END -->
 
