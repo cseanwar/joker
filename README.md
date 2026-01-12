@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
+> What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 
 <!-- END -->
 
