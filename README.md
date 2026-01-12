@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fish wearing a bowtie? Sofishticated.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
