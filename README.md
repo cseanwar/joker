@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 <!-- END -->
 
