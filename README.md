@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
 
 <!-- END -->
 
