@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
