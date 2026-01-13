@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
