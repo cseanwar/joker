@@ -5,7 +5,8 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
