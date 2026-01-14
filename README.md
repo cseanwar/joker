@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
