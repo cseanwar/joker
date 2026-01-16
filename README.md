@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
