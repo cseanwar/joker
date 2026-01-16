@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
