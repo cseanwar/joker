@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
