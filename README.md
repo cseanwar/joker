@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 <!-- END -->
 
