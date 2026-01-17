@@ -5,8 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
 
 <!-- END -->
 
