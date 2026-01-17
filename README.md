@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> Mountains aren't just funny, they are hill areas
 
 <!-- END -->
 
