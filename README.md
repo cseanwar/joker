@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
