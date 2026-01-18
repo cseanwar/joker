@@ -5,7 +5,7 @@ Det här är en övning i hur vi kan automatiskt uppdatera filer med Github Acti
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
 
 <!-- END -->
 
